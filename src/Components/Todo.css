@@ -1,0 +1,21 @@
+button
+{
+    background-color: white;
+    border: none;
+}
+.todo
+{
+    display: flex;
+    width: 500px;
+    justify-content:space-evenly;
+    margin: 1.5em 0;
+}
+.bttn-check-uncheck
+{
+    margin-top: -0.5em;
+}
+.completed
+{
+    text-decoration: line-through;
+    color: grey;
+}
